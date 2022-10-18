@@ -1,0 +1,14 @@
+
+Y
+java:S6208&"CMerge the previous cases into this one using comma-separated label.(Ñ‰Ø’
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(Î‡Ï™ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Æ“¶Û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îµÏî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ý…ÄÏ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—Ï´‰
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(·Ãó¢øÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(è¼þ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(¥Þ¹1
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(Ü³—Ö
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
