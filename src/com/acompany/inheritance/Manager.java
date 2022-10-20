@@ -9,6 +9,11 @@ public class Manager extends Employee{
         this.bonus = bonus;
     }
 
+    @Override
+    public long paySalary() {
+        return this.salary / 12 + this.bonus;
+    }
+
     public long getBonus() {
         return bonus;
     }
