@@ -17,6 +17,4 @@ public interface Payable {
     static long testStatic() {
         return 1;
     }
-
-
 }

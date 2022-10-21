@@ -13,3 +13,5 @@ C
 src/Variables2.java,6\8\6823313829b51b3bf43a0c556246ec42ff6444af
 ?
 modern-java.iml,5\5\554dd796e6d525fee60ffc222feeffd4002a7966
+@
+src/Methods.java,0\3\03d60a077afdae109add3d2d7fa4581434b5c660
