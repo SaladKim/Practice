@@ -28,3 +28,5 @@ M
 src/com/acompany/Product.java,c\8\c8b219dfcdddccfe43a5331c97ed8be2ef604479
 Y
 )src/com/acompany/inheritance/Payable.java,f\a\fa1ee996bd402867ae26427b463cf390a525c177
+V
+&src/com/acompany/lamda/LambdaTest.java,2\6\2654653aa30bb7c6d373a778ed0b6fb134b6fb52
