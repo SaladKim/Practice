@@ -30,3 +30,7 @@ Y
 )src/com/acompany/inheritance/Payable.java,f\a\fa1ee996bd402867ae26427b463cf390a525c177
 V
 &src/com/acompany/lamda/LambdaTest.java,2\6\2654653aa30bb7c6d373a778ed0b6fb134b6fb52
+W
+'src/com/acompany/lamda/LambdaTest2.java,f\1\f18c43fdb4c7b6c71da7f903d09e3a60926fa91e
+\
+,src/com/acompany/exceptions/LylicReader.java,8\5\859ebf673bf6c9fc8af42f09fa6c9d77b3f35ecd
