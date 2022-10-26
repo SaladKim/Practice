@@ -34,3 +34,7 @@ W
 'src/com/acompany/lamda/LambdaTest2.java,f\1\f18c43fdb4c7b6c71da7f903d09e3a60926fa91e
 \
 ,src/com/acompany/exceptions/LylicReader.java,8\5\859ebf673bf6c9fc8af42f09fa6c9d77b3f35ecd
+]
+-src/com/acompany/exceptions/BizException.java,7\0\70cf2f2982b96426406cba268e457141d270503c
+^
+.src/com/acompany/exceptions/ExceptionTest.java,3\e\3e02e5772e4860e04868926f3a1320968cc874a6
