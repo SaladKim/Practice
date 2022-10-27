@@ -38,3 +38,8 @@ W
 -src/com/acompany/exceptions/BizException.java,7\0\70cf2f2982b96426406cba268e457141d270503c
 ^
 .src/com/acompany/exceptions/ExceptionTest.java,3\e\3e02e5772e4860e04868926f3a1320968cc874a6
+:
+
+cities.txt,b\c\bcc4a355c0138b11d97c9e62d7436acbc841c58e
+W
+'src/com/acompany/stream/StreamDemo.java,7\1\71a29a9fa5f00785bdbf0ecbe9cfa3fdf2cdb8ae
