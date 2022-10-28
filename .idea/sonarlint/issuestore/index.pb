@@ -28,10 +28,6 @@ M
 src/com/acompany/Product.java,c\8\c8b219dfcdddccfe43a5331c97ed8be2ef604479
 Y
 )src/com/acompany/inheritance/Payable.java,f\a\fa1ee996bd402867ae26427b463cf390a525c177
-V
-&src/com/acompany/lamda/LambdaTest.java,2\6\2654653aa30bb7c6d373a778ed0b6fb134b6fb52
-W
-'src/com/acompany/lamda/LambdaTest2.java,f\1\f18c43fdb4c7b6c71da7f903d09e3a60926fa91e
 \
 ,src/com/acompany/exceptions/LylicReader.java,8\5\859ebf673bf6c9fc8af42f09fa6c9d77b3f35ecd
 ]
@@ -43,3 +39,16 @@ W
 cities.txt,b\c\bcc4a355c0138b11d97c9e62d7436acbc841c58e
 W
 'src/com/acompany/stream/StreamDemo.java,7\1\71a29a9fa5f00785bdbf0ecbe9cfa3fdf2cdb8ae
+W
+'src/com/acompany/io/TextFileIoTest.java,1\3\134329e28c0faaacae6ac21e20af5d7639a6ad99
+^
+.src/com/acompany/concurrency/RunnableDemo.java,c\8\c8ea4cbfc4ec3ef505e294c880a01bce00e5f746
+^
+.src/com/acompany/concurrency/CallableDemo.java,3\8\3890ece4f761d6aa5621ced5d39046467d506bcd
+\
+,src/com/acompany/datetime/TheDayMartOff.java,8\b\8b43a7795e4b17a0fcc20afc95c110927d619ecf
+:
+
+output.txt,a\d\adbe6c7d3c0d8b19ecd492bec9532c13a6e1c9ad
+\
+,src/com/acompany/annotations/PageOption.java,3\5\35e143c8d79072554151662512b7a515d28e53b3

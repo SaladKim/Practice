@@ -37,6 +37,7 @@ public class Pager {
                 }
             }
         }
+        return pageExplorer;
     }
 
 }
